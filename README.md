@@ -1,7 +1,7 @@
 ## Autor
 Juan Manuel Bejarano Mendez - 30000130961
 
-# PilinHub
+# TilinHub
 
 Aplicación móvil hecha con **Flutter y Dart** para la comunidad gamer y otaku: videojuegos, gameplay, anime, manga, cómics y juegos de rol. Combina el estilo de **Telegram** (chats) con el de **Pinterest** (publicaciones en mosaico) en una estética de fusión ancestral y sci-fi: obsidiana, jade y oro con energía turquesa.
 
